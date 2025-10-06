@@ -1,0 +1,4 @@
+# argus/requirements.txt
+
+requests
+python-dotenv
